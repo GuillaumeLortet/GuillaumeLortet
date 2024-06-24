@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @GuillaumeLortet, this is my pro account
+- 💼 Working at DaVikingCode

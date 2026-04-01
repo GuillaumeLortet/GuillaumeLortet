@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @GuillaumeLortet, this is my pro account
-- 💼 Working at DaVikingCode
-- Peronal account is @Akaadream
+- 👋 Hi, I’m [@GuillaumeLortet](https://github.com/GuillaumeLortet), this is my pro account
+- 💼 Working at [DaVikingCode](https://davikingcode.com/fr/accueil/)
+- Peronal account is [@Akaadream](https://github.com/Akaadream)
